@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         replace nzblnk links
-// @description  replace nzblnk with shortcut links"
+// @description  replace nzblnk with shortcut links
 // @grant       none
 // ==/UserScript==
 

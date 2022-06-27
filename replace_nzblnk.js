@@ -10,6 +10,6 @@ var links = document.getElementsByTagName( 'a' );
 for ( var i = 0; i < links.length; i++ ) {
     var link = links[i];
    link = links[i];
-   link.href = link.href.replace(/^(nzblnk:)([^&]+)&([^&]+)&(.+)$/gi, 'shortcuts://run-shortcut?name=NZBLink-XtoY2&input=text&text=$1$2$$$3$$$4');
+   link.href = link.href.replace(/^(nzblnk:)([^&]+)&([^&]+)&(.+)$/gi, 'shortcuts://run-shortcut?name=NZBLink-nzbking&input=text&text=$1$2$$$3$$$4');
 }
 ;
